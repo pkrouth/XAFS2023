@@ -11,5 +11,5 @@ Short Course on XAFS
 - PCA
 - MCR
 - NN-XANES:
-  - 00: <a target="_blank" href="https://colab.research.google.com/github/pkrouth/XAFS2023/blob/pkrouth-MCR/notebooks/00_NN_XANES_Introduction.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  - 00: <a target="_blank" href="https://colab.research.google.com/github/pkrouth/XAFS2023/blob/main/notebooks/00_NN_XANES_Introduction.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   - 01: <a target="_blank" href="https://colab.research.google.com/github/pkrouth/XAFS2023/blob/pkrouth-MCR/notebooks/01_NN_XANES_Training_data_preparation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
