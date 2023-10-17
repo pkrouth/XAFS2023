@@ -8,7 +8,7 @@ Short Course on XAFS
 
 ## List of Notebooks
 - Test Colab: <a target="_blank" href="https://colab.research.google.com/github/pkrouth/XAFS2023/blob/main/notebooks/Test_Colab.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- PCA
+- PCA: 
 - MCR
 - NN-XANES:
   - 00: <a target="_blank" href="https://colab.research.google.com/github/pkrouth/XAFS2023/blob/main/notebooks/00_NN_XANES_Introduction.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
